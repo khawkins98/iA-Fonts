@@ -5,7 +5,7 @@ Done for simple hosting of the WOFF files to use in a codepen: https://codepen.i
 @import url('http://khawkins98.github.io/iA-Fonts/style.css');
 
 body {
-  font-family: "iAWriterDuospace";
+  font-family: "iAWriterDuospace Regular";
 }
 ```
 
