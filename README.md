@@ -2,7 +2,7 @@
 Done for simple hosting of the WOFF files to use in a codepen: https://codepen.io/khawkins98/pen/mxOgoM
 
 ```
-@import url('http://khawkins98.github.io/iA-Fonts/style.css');
+@import url('https://khawkins98.github.io/iA-Fonts/style.css');
 
 body {
   font-family: "iAWriterDuospace Regular";
