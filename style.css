@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'iAWriterDuospace Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: local('iAWriterDuospace-Regular'), url(Webfonts/iAWriterDuospace-Regular.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'iAWriterDuospace Bold';
+  font-style: normal;
+  font-weight: 600;
+  src: local('iAWriterDuospace-Bold'), url(Webfonts/iAWriterDuospace-Bold.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'iAWriterDuospace Regular Italic';
+  font-style: italic;
+  font-weight: 400;
+  src: local('iAWriterDuospace-RegularItalic'), url(Webfonts/iAWriterDuospace-RegularItalic.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'iAWriterDuospace Bold Italic';
+  font-style: italic;
+  font-weight: 600;
+  src: local('iAWriterDuospace-BoldItalic'), url(Webfonts/iAWriterDuospace-BoldItalic.woff2) format('woff2');
+}
