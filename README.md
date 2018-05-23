@@ -1,6 +1,6 @@
 Done for simple hosting of the WOFF files to use in a codepen: https://codepen.io/khawkins98/pen/mxOgoM
 
-Forked on 2018-03-19
+Forked on 2018-03-19 from [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts)
 
 ### 🚨🚨 For testing purposes, do not use in prdocution 🚨🚨
 
